@@ -1,13 +1,12 @@
 // ==UserScript==
-// @name         Bypass UptoLink (FAST)
+// @name         Bypass UptoLink (FAST FIX)
 // @namespace    http://tampermonkey.net/
-// @version      2.0
-// @description  No delay version
+// @version      3.0
+// @description  No delay + GM working
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
-// @connect      uptolink.one
+// @connect      cdn.jsdelivr.net
 // @connect      raw.githubusercontent.com
-// @connect      api.github.com
 // @connect      *
 // @run-at       document-end
 // ==/UserScript==
@@ -15,33 +14,38 @@
 (function() {
 'use strict';
 
-// ⚡ URL nhanh (CDN)
+// ⚡ CDN nhanh
 const URL_FAST = "https://cdn.jsdelivr.net/gh/Huy7684/Uptolink/toolgoc.js";
 
-// 🐢 fallback (GitHub RAW)
+// 🐢 fallback
 const URL_FALLBACK = "https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/toolgoc.js";
 
-// 🚀 load script async (KHÔNG delay UI)
-function loadScript(url){
-    const s = document.createElement("script");
-    s.src = url;
-    s.async = true;
+// 🚀 load bằng GM (GIỮ QUYỀN)
+function load(url){
+    GM_xmlhttpRequest({
+        method: "GET",
+        url: url,
+        onload: function(res){
+            try{
+                console.log("✅ Loaded:", url);
 
-    s.onload = () => {
-        console.log("✅ Tool loaded:", url);
-    };
+                // 🔥 chạy trong context Tampermonkey
+                eval(res.responseText);
 
-    s.onerror = () => {
-        console.log("⚠️ CDN fail → fallback...");
-        if(url !== URL_FALLBACK){
-            loadScript(URL_FALLBACK);
+            }catch(e){
+                console.error("EXEC ERROR:", e);
+            }
+        },
+        onerror: function(){
+            console.log("⚠️ fail → fallback...");
+            if(url !== URL_FALLBACK){
+                load(URL_FALLBACK);
+            }
         }
-    };
-
-    document.head.appendChild(s);
+    });
 }
 
-// 🔥 chạy ngay (không chờ)
-loadScript(URL_FAST);
+// chạy ngay (không delay)
+load(URL_FAST);
 
 })();
