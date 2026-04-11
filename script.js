@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Bypass UptoLink
-// @require      https://github.com/phatnottaken51/bypass-upto-link/raw/refs/heads/main/source.js
+// @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/toolgoc.js
 // @match        *://*/*
 // @author       HuyDz
 // @grant        GM_xmlhttpRequest
