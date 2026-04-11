@@ -2,10 +2,10 @@
 // @name         Bypass UptoLink
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Bypass UptoLink for cuttay user
+// @description  Bypass UptoLink
 // @require      https://github.com/phatnottaken51/bypass-upto-link/raw/refs/heads/main/source.js
 // @match        *://*/*
-// @author       PhatNotTaken
+// @author       HuyDz
 // @grant        GM_xmlhttpRequest
 // @connect      uptolink.one
 // @connect      raw.githubusercontent.com
