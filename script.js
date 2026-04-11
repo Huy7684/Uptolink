@@ -13,5 +13,5 @@
 // @connect      generativelanguage.googleapis.com
 // @connect      *
 // @run-at       document-end
-// @icon         https://cdn.discordapp.com/avatars/1001691686721835090/8c9770820eac0449217292ed718b3700.png
+// @icon         https://avatars.githubusercontent.com/u/112377723?v=4
 // ==/UserScript==
