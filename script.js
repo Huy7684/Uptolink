@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  HuydzBypass
-// @require      https://github.com/phatnottaken51/bypass-upto-link/raw/refs/heads/main/source.js
+// @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/tool.js
 // @match        *://*/*
-// @author       PhatNotTaken
+// @author       HuyDz
 // @grant        GM_xmlhttpRequest
 // @connect      uptolink.one
 // @connect      raw.githubusercontent.com
@@ -13,5 +13,5 @@
 // @connect      generativelanguage.googleapis.com
 // @connect      *
 // @run-at       document-end
-// @icon         https://cdn.discordapp.com/avatars/1001691686721835090/8c9770820eac0449217292ed718b3700.png
+// @icon         https://avatars.githubusercontent.com/u/112377723?v=4
 // ==/UserScript==
