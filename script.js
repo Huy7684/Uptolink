@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bypass UptoLink
+// @name         Bypass
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  HuydzBypass
