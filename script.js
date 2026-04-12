@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Bypass
+// @name         Bypass Uptolink Best
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Bypass UptoLink for cuttay user
+// @description  HuyDzBypass
 // @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/tool.js
 // @match        *://*/*
 // @author       HuyDz
