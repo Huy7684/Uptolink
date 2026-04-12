@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         HuyDz Bypa
+// @name         HuyDz Bypass
 // @namespace    http://tampermonkey.net/
-// @version      36.36
+// @version      67.67
 // @description  HuyDz
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
