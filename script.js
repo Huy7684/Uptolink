@@ -4,7 +4,8 @@
 // @version      1.0
 // @description  HuydzBypass
 // @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/tool.js
-// @match        *://*/*
+// @match        *://*.uptolink.one/*
+// @match        *://huongdanlayma.com/*
 // @author       HuyDz
 // @grant        GM_xmlhttpRequest
 // @connect      uptolink.one
