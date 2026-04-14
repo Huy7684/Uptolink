@@ -2,6 +2,7 @@
 // @name         KIEMGAO AUTO TASK
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @description  HuyDzBypass
 // @match        *://*/*
 // @author       HuyDz
 // @grant        GM_getValue
