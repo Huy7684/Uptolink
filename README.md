@@ -1,1 +1,1 @@
-Cài theo thứ tự Script -> Autolick -> Script Auto Nhận Task
+Cài theo thứ tự AutoClick -> script -> tool auto task
