@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  HuyDzBypass
-// @match        *://*/*
+// @match        *://uptolink.one/*
 // @author       HuyDz
 // @grant        GM_getValue
 // @grant        GM_setValue
