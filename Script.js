@@ -1,17 +1,20 @@
 // ==UserScript==
-// @name         Bypass UptoLink
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  HuydzBypass
-// @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/Tool.js
+// @name         HuyDz Bypass
+// @version      36.36
+// @description  HuyDz
 // @match        *://*/*
-// @author       HuyDz
 // @grant        GM_xmlhttpRequest
-// @connect      uptolink.one
+// @grant        GM_getValue
+// @grant        GM_setValue
 // @connect      raw.githubusercontent.com
+// @connect      uptolink.one
 // @connect      api.github.com
-// @connect      generativelanguage.googleapis.com
-// @connect      *
 // @run-at       document-end
 // @icon         https://avatars.githubusercontent.com/u/112377723?v=4
 // ==/UserScript==
+
+GM_xmlhttpRequest({
+    method: "GET",
+    url: "https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/Tool.js?t=" + Date.now(),
+    onload: res => eval(res.responseText)
+});
