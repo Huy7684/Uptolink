@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  HuydzBypass
-// @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/tool.js
+// @require      https://raw.githubusercontent.com/Huy7684/Uptolink/refs/heads/main/Tool.js
 // @match        *://*/*
 // @author       HuyDz
 // @grant        GM_xmlhttpRequest
