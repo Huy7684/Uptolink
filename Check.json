@@ -1181,5 +1181,18 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Không",
     "MEDIA_SENSORS": "Video: MP4/VP9 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: N/A | Lang: vi-VN"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 92 ======",
+    "TIME_TARGET": "2026-04-28 20:50:16 | Múi giờ: Asia/Saigon | Target: [217-2] => https://kyzu.sa.com",
+    "HARDWARE": "Model: Vivo (V2366GA) | CPU: ARM 64-bit | Touch: 5 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "SCREEN": "Res: 1440x3200 | Avail: 1440x3200 | View: 1664x3044 | Pos: 0x0 | Scale: 4x | 24-bit | Dọc",
+    "SOFTWARE": "OS: Android 16 | Browser: Chrome | Vendor: Google Inc. | Theme: Dark | PWA Mode: Tắt | Plugins: 0",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Tắt | Quota: 275GB",
+    "PERMISSIONS": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: prompt",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Có | USB/Serial: Có",
+    "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: 4G (1.6Mbps - Ping: 150ms) | Online: Online | Pin: 4% (Rút sạc) | Lang: vi-VN, vi, fr-FR, fr, en-US, en"
   }
 ]
