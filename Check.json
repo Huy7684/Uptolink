@@ -38,5 +38,13 @@
     "Software": "Edge | Android (1080x2393)",
     "Hardware": "Generic Mobile | ARM 64-bit | Mali-G57 MC2",
     "Network": "4G | Asia/Saigon"
+  },
+  {
+    "Run": 6,
+    "Time": "2026-04-28 09:02:51",
+    "Target": "217-3",
+    "Software": "Brave | Windows 10/11 (1440x900)",
+    "Hardware": "PC | x86 64-bit | NVIDIA GeForce RTX 2060",
+    "Network": "WIFI / Unknown | Asia/Bangkok"
   }
 ]
