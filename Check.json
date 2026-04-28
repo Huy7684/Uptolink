@@ -63,5 +63,18 @@
     "NET_TELEMETRY": "Conn: WIFI / Unknown | Online: Online | Battery: 100% (Đang sạc) | Quota: 2GB",
     "API_SENSORS": "WASM: Có | Crypto: Có | NFC: Không | Bio: Có | DRM: Có | Geo: prompt",
     "PERF_METRICS": "Page Load Time: 241ms | Languages: en-US"
+  },
+  {
+    "SYS_SESSION": "====== LẦN CHẠY THỨ 6 ======",
+    "SYS_METADATA": "2026-04-28 12:21:54 | Timezone: Asia/Saigon | Target: [196-2] => https://ao88-mobile.com",
+    "SYS_SUPER_UID": "UID-33DB-B6B6",
+    "HW_PROFILE": "Brand: 2510DRA23E | Arch: ARM 64-bit | Input: Cảm ứng | Touch: 5",
+    "HW_GRAPHICS": "GPU: Mali-G57 MC2 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "HW_DISPLAY": "Res: 384x851 | Avail: 384x851 | Viewport: 442x787 | Scale: 2.8125x | Dọc",
+    "SW_ENVIRONMENT": "OS: Android 15 | Browser: Edge (WebKit/Blink) | Theme: Dark | Plugins: 0",
+    "SW_SECURITY": "Context: Có | Isolated: Không | AdBlock: Bật (Nguy cơ chặn Tool) | Bot: No | DNT/GPC: DNT Tắt / GPC Tắt",
+    "NET_TELEMETRY": "Conn: 4G (1.6Mbps - Ping: 150ms) | Online: Online | Battery: 96% (Rút sạc) | Quota: 64GB",
+    "API_SENSORS": "WASM: Có | Crypto: Có | NFC: Có | Bio: Có | DRM: Có | Geo: prompt",
+    "PERF_METRICS": "Page Load Time: 3454ms | Languages: vi"
   }
 ]
