@@ -1,1 +1,15 @@
-
+[
+  {
+    "RUN_SESSION": "LẦN THỨ 1 | Thời gian: 2026-04-28 11:39:21 | Múi giờ: Asia/Bangkok",
+    "TARGET_LINK": "[174-2] => https://Socialcap.io",
+    "HARDWARE_PROFILE": "Model: PC (Windows/Linux) | CPU Arch: x86 64-bit | Input: Chuột/Touchpad | Touch: 256",
+    "GRAPHICS_ENGINE": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | MaxTex: 16384",
+    "SCREEN_METRICS": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Scale: 1x | Color: 32-bit | Ngang",
+    "SOFTWARE_ENV": "OS: Windows 10/11 | Browser: Brave | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
+    "SECURITY_PRIVACY": "Bot/Auto: No | AdBlock: Bật (Có thể chặn Tool) | WebRTC: Yes | DNT: Tắt | Storage Quota: 2GB",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | Clipboard: Có | WakeLock: Có | Geo: Có",
+    "HARDWARE_APIS": "Cam/Mic: Có | NFC: Không | USB: Có | Rung: Có | VR/AR: Có | HID: Có | Serial: Có | MIDI: Có",
+    "MEDIA_SENSORS": "MP4: Có | HEVC: Có | VP9: Có | AV1: Có | PiP: Có | Share: Có | Light: Không",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
+  }
+]
