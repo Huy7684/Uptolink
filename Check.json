@@ -17,5 +17,16 @@
     "Software": "OS: Windows 10/11 | Browser: Brave | Platform: Win32 | Engine: WebKit/Blink | Langs: en-US",
     "Features": "Bot: No | DNT: Tắt | Cookie: Yes | Storage: Yes | PDF: Yes | Plugins: 7 | MIME: 2",
     "Net_n_Perf": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Sạc) | JS Heap: 17MB | History: 6"
+  },
+  {
+    "Run": 3,
+    "Time": "2026-04-28 11:21:20 | TZ: Asia/Bangkok",
+    "Target": "[156-2] => https://mgk.uk.com",
+    "Hardware": "Model: PC (Windows/Linux) | Arch: x86 64-bit | RAM: 32GB+ | Touch: 256",
+    "Graphics": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | Shading: WebGL GLSL ES 3.00 (OpenGL ES GLSL ES 3.0 Chromium) | MaxTex: 16384",
+    "Screen": "Res: 1440x900 | Avail: 1440x900 | Viewport: 1401x811 | Scale: 1x | Color: 32-bit | Pixel: 32-bit | Ngang",
+    "Software": "OS: Windows 10/11 | Browser: Brave | Platform: Win32 | Engine: WebKit/Blink | Langs: en-US",
+    "Features": "Bot: No | DNT: Tắt | Cookie: Yes | Storage: Yes | IDB: Yes | SW: Yes | WebRTC: Yes | Speech: Yes | BT: Yes",
+    "Net_n_Perf": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | JS Heap: 24MB"
   }
 ]
