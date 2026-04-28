@@ -22,5 +22,13 @@
     "Software": "Edge | Android (1080x2393)",
     "Hardware": "Generic Mobile | ARM 64-bit | Mali-G57 MC2",
     "Network": "4G | Asia/Saigon"
+  },
+  {
+    "Run": 4,
+    "Time": "2026-04-28 09:01:14",
+    "Target": "156-2",
+    "Software": "Edge | Android (1080x2393)",
+    "Hardware": "Generic Mobile | ARM 64-bit | Mali-G57 MC2",
+    "Network": "4G | Asia/Saigon"
   }
 ]
