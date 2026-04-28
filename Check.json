@@ -1,1 +1,11 @@
-
+[
+  {
+    "Run": 1,
+    "Time": "2026-04-28 09:55:45 | Asia/Bangkok",
+    "Target": "[219-2] => https://kim66.cn.com",
+    "Device": "PC (Windows/Linux) (Yes) | x86 64-bit | NVIDIA GeForce RTX 2060 | 16GB+ RAM | 6 Threads",
+    "Screen": "1440x900 | 32-bit",
+    "Software": "Brave | Windows 10/11",
+    "Status": "Mạng: WIFI / Unknown | Pin: 100% (Đang sạc) | Ngôn ngữ: en-US"
+  }
+]
