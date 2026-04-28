@@ -50,5 +50,17 @@
     "Media_Codecs": "MP4: Có | HEVC/H.265: Có | VP9: Có | AV1: Có",
     "Hardware_APIs": "Gyroscope: Có | USB: Có | Gamepad: Có | VR/AR: Có | Audio: Có",
     "Network": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
+  },
+  {
+    "🚀_RUN_SESSION_": "LẦN THỨ 6 | Thời gian: 2026-04-28 11:31:25 | Múi giờ: Asia/Bangkok",
+    "🎯_TARGET_LINK_": "[174-2] => https://Socialcap.io",
+    "📱_DEVICE_HARDWARE_": "Model: PC (Windows/Linux) | CPU Arch: x86 64-bit | Input: Chuột/Touchpad | Touch: 256",
+    "🎮_GRAPHICS_ENGINE_": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Hỗ trợ | MaxTex: 16384",
+    "🖥️_SCREEN_DISPLAY_": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Scale: 1x | Color: 32-bit | Ngang",
+    "🌐_SOFTWARE_SYSTEM_": "OS: Windows 10/11 | Browser: Brave | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
+    "🛡️_WEB_FEATURES_": "Bot/Auto: No | AdBlock: Bật (Nguy cơ chặn Tool) | WebRTC: Yes | DNT: Tắt | Storage Quota: 2GB",
+    "🔌_EXTERNAL_APIS_": "Camera/Mic: Có | NFC: Không | USB: Có | Rung: Có | VR/AR: Có",
+    "🎬_MEDIA_CODECS_": "MP4: Có | HEVC: Có | VP9: Có | AV1: Có",
+    "📶_NET_BATTERY_": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
   }
 ]
