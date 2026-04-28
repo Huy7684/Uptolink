@@ -1467,5 +1467,18 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Không",
     "MEDIA_SENSORS": "Video: MP4/VP9 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: N/A | Lang: vi-VN"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 114 ======",
+    "TIME_TARGET": "2026-04-28 21:42:58 | Múi giờ: Asia/Barnaul | Target: [201-2] => https://xg0.sa.com",
+    "HARDWARE": "Model: PC Windows/Linux | CPU: x86 64-bit | Touch: 0 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: Intel(R) HD Graphics Family | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "SCREEN": "Res: 1920x1080 | Avail: 1920x1020 | View: 1920x839 | Pos: 0x0 | Scale: 1.5x | 32-bit | Ngang",
+    "SOFTWARE": "OS: Windows 10/11 | Browser: Chrome | Vendor: Google Inc. | Theme: Light | PWA Mode: Tắt | Plugins: 5",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Tắt | Quota: 10GB",
+    "PERMISSIONS": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: prompt",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có",
+    "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: 4G (10Mbps - Ping: 100ms) | Online: Online | Pin: 51% (Đang sạc) | Lang: vi-VN, vi, fr-FR, fr, en-US, en"
   }
 ]
