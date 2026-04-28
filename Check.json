@@ -26,5 +26,19 @@
     "MEDIA_SENSORS": "MP4: Có | HEVC: Có | VP9: Có | AV1: Có | PiP: Có | Share: Có | LightSensor: Không",
     "IDENTITY_COMMERCE": "Biometrics: Hỗ trợ | Payments: Hỗ trợ | DRM (Widevine): Hỗ trợ",
     "NETWORK_POWER": "Mạng: 4G (4.65Mbps - Ping: 150ms) | SaveData: Tắt | Pin: 98% (Rút sạc) | Lang: vi"
+  },
+  {
+    "RUN_SESSION": "LẦN THỨ 3 | Thời gian: 2026-04-28 11:58:30 | Múi giờ: Asia/Bangkok",
+    "TARGET_LINK": "[174-2] => https://Socialcap.io",
+    "HARDWARE_PROFILE": "Model: PC (Windows/Linux) | CPU Arch: x86 64-bit | Input: Chuột/Touchpad | Touch: 256",
+    "GRAPHICS_ENGINE": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | MaxTex: 16384 | ColorSpace: sRGB",
+    "SCREEN_METRICS": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Scale: 1x | Color: 32-bit | Ngang",
+    "SOFTWARE_ENV": "OS: Windows 10/11 | Browser: Brave | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
+    "SECURITY_PRIVACY": "SecureContext: Có (HTTPS) | Bot/Auto: No | AdBlock: Bật (Có thể chặn Tool) | WebRTC: Yes | DNT: Tắt | Web Quota: 2GB (Cấp cho Web)",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | Clipboard: Có | WakeLock: Có | Geo: Có",
+    "HARDWARE_APIS": "Cam/Mic: Có | NFC: Không | USB: Có | Rung: Có | VR/AR: Có | HID: Có | Serial: Có | MIDI: Có",
+    "MEDIA_SENSORS": "MP4: Có | HEVC: Có | VP9: Có | AV1: Có | PiP: Có | Share: Có | LightSensor: Không",
+    "IDENTITY_COMMERCE": "Biometrics: Hỗ trợ | Payments: Hỗ trợ | DRM (Widevine): Hỗ trợ",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
   }
 ]
