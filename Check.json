@@ -186,5 +186,18 @@
       "NFC_Scanner": "N/A",
       "USB_Serial_MIDI": "N/A / N/A / N/A"
     }
+  },
+  {
+    "🚀_RUN_SESSION_": "====== LẦN CHẠY THỨ 6 ======",
+    "⏰_TIME_TARGET_": "2026-04-28 12:04:28 | Múi giờ: Asia/Bangkok | [174-2] => https://Socialcap.io",
+    "📱_HARDWARE_": "Model: PC (Windows/Linux) | CPU: x86 64-bit | Touch: 256 | MultiMonitor: Không",
+    "🎮_GRAPHICS_": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "🖥️_SCREEN_": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Scale: 1x | 32-bit | Ngang",
+    "🌐_SOFTWARE_": "OS: Windows 10/11 | Browser: Brave | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
+    "🛡️_SECURITY_": "Secure: Có | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: Tắt | Quota: 2GB",
+    "🔑_PERMISSIONS_": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: prompt",
+    "🔌_ADVANCED_APIS_": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có/Serial",
+    "🎬_MEDIA_SENSORS_": "MP4: Có | VP9: Có | AV1: Có | Bio: Có | DRM: Có",
+    "🔋_NETWORK_POWER_": "Mạng: WIFI / Unknown | Pin: 100% (Đang sạc) | Lang: en-US"
   }
 ]
