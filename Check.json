@@ -570,5 +570,18 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có",
     "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: 100% (Đang sạc) | Lang: en-US"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 45 ======",
+    "TIME_TARGET": "2026-04-28 15:08:19 | Múi giờ: Asia/Saigon | Target: [209-2] => https://11mtru.sa.com",
+    "HARDWARE": "Model: Xiaomi/Redmi (23129RAA4G) | CPU: ARM 64-bit | Touch: 5 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: Adreno (TM) 610 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "SCREEN": "Res: 1081x2401 | Avail: 1081x2401 | View: 1213x2203 | Pos: 0x0 | Scale: 2.75x | 24-bit | Dọc",
+    "SOFTWARE": "OS: Android 15 | Browser: Edge | Vendor: Google Inc. | Theme: Dark | PWA Mode: Tắt | Plugins: 0",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Tắt | Quota: 136GB",
+    "PERMISSIONS": "Geo: denied | Cam: prompt | Mic: prompt | Notif: prompt",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Có | USB/Serial: Có",
+    "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: 4G (10Mbps - Ping: 50ms) | Online: Online | Pin: 81% (Rút sạc) | Lang: vi"
   }
 ]
