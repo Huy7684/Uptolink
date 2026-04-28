@@ -80,5 +80,13 @@
     "browser": "Brave",
     "resolution": "1280x800",
     "targetID": "217-3"
+  },
+  {
+    "run_number": 3,
+    "timestamp": "2026-04-28 08:25:01",
+    "os": "Windows 10/11",
+    "browser": "Brave",
+    "resolution": "1280x800",
+    "targetID": "217-3"
   }
 ]
