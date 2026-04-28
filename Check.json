@@ -1,1 +1,9 @@
-
+[
+  {
+    "SESSION": "Run #1 | 2026-04-29 00:01:59",
+    "TARGET": "[220-2] => https://nohu90-mobile.app | TOKEN: 064d4d27dfe182b6ae4a40ad5948fab6",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave",
+    "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
+    "NETWORK": "Mạng: Online | Pin: 100% (Đang sạc)"
+  }
+]
