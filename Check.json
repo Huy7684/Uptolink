@@ -206,5 +206,18 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có",
     "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: 100% (Đang sạc) | Lang: en-US"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 17 ======",
+    "TIME_TARGET": "2026-04-28 12:47:28 | Múi giờ: Asia/Saigon | Target: [196-2] => https://ao88-mobile.com",
+    "HARDWARE": "Model: Redmi Note 15 4G (2510DRA23E) | CPU: ARM 64-bit | Touch: 5 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: Mali-G57 MC2 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "SCREEN": "Res: 1080x2393 | Avail: 1080x2393 | View: 1243x2213 | Pos: 0x0 | Scale: 2.8125x | 24-bit | Dọc",
+    "SOFTWARE": "OS: Android 15 | Browser: Edge | Vendor: Google Inc. | Theme: Dark | PWA Mode: Tắt | Plugins: 0",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Tắt | Quota: 64GB",
+    "PERMISSIONS": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: prompt",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Có | USB/Serial: Có",
+    "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: 4G (1.7Mbps - Ping: 200ms) | Online: Online | Pin: 93% (Rút sạc) | Lang: vi"
   }
 ]
