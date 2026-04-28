@@ -1847,5 +1847,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave",
     "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
     "NETWORK": "Mạng: undefined | IP: 42.115.92.67 | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #149 | 2026-04-28 23:02:15",
+    "TARGET": "[152-2] => https://duomoyouxi.com | TOKEN: e890e0df01c656628c512b3d47f4db01",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave",
+    "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
+    "NETWORK": "Mạng: Online (Web/Wifi/4G) | IP: 42.115.92.67 | Pin: 100% (Đang sạc)"
   }
 ]
