@@ -1544,5 +1544,18 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có",
     "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: 4G (1.65Mbps - Ping: 100ms) | Online: Online | Pin: 95% (Đang sạc) | Lang: vi-VN, vi, fr-FR, fr, en-US, en"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 120 ======",
+    "TIME_TARGET": "2026-04-28 21:48:42 | Múi giờ: Asia/Saigon | Target: [156-2] => https://nk88.poker",
+    "HARDWARE": "Model: Apple iPhone/iPad | CPU: ARM 64-bit | Touch: 5 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: Apple GPU | WebGL: WebGL 2.0 | WebGPU: Không | ColorSpace: P3 (Wide)",
+    "SCREEN": "Res: 828x1792 | Avail: 828x1792 | View: 828x1428 | Pos: 0x0 | Scale: 2x | 24-bit | Dọc",
+    "SOFTWARE": "OS: iOS (iPhone) | Browser: Safari | Vendor: Apple Computer, Inc. | Theme: Dark | PWA Mode: Tắt | Plugins: 5",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Tắt | Quota: 38GB",
+    "PERMISSIONS": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: denied",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Không",
+    "MEDIA_SENSORS": "Video: MP4/VP9 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: N/A | Lang: vi-VN"
   }
 ]
