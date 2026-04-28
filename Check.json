@@ -1,1 +1,11 @@
-
+[
+  {
+    "Run": 1,
+    "Time": "2026-04-28 10:07:21 | Múi giờ: Asia/Saigon",
+    "Target": "[196-2] => https://ao88-mobile.com",
+    "Device": "2510DRA23E | CPU: ARM 64-bit | GPU: Mali-G57 MC2 | Touch: 5 | Bot: Không",
+    "Screen": "Res: 1080x2393 | Avail: 384x851 | View: 442x787 | Scale: 2.8125x | Màu: 24-bit | Dọc",
+    "Software": "Edge | Android 10 | Theme: Dark | Plugins: 0 | DNT: Tắt | PDF: Không",
+    "Network": "Mạng: 4G (1.85Mbps - Ping: 150ms) | Data Saver: Tắt | Pin: 31% (Rút sạc) | Lang: vi"
+  }
+]
