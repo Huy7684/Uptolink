@@ -1712,5 +1712,19 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Không",
     "MEDIA_SENSORS": "Video: MP4/VP9 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: N/A | Lang: vi-VN"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 135 | 2026-04-28 22:32:27 ======",
+    "TARGET_LINK": "[216-3] => https://natrajpencilpackingjobs.in.net | TOKEN: 9589e07b543448718b3d722ed6f46480",
+    "HARDWARE": "Model: N/A | CPU: undefined | Touch: undefined | MultiMonitor: undefined",
+    "GRAPHICS": "GPU: N/A | WebGL: undefined | WebGPU: undefined | ColorSpace: undefined",
+    "SCREEN": "Res: N/A | Avail: undefined | View: undefined | Pos: undefined | Scale: undefinedx | undefined | undefined",
+    "SOFTWARE": "OS: N/A | Browser: N/A | Vendor: undefined | Theme: undefined | PWA: undefined | Plugins: undefined",
+    "SECURITY": "Secure: undefined | Isolated: undefined | Bot: undefined | AdBlock: undefined | DNT: undefined | Quota: undefined",
+    "PERMISSIONS": "Geo: undefined | Cam: undefined | Mic: undefined | Notif: undefined",
+    "ADVANCED_APIS": "WASM: undefined | Crypto: undefined | WebCodecs: undefined | NFC: undefined | USB/Serial: undefined",
+    "MEDIA_SENSORS": "Video: undefined | Audio: undefined | Bio: undefined | DRM: undefined",
+    "NETWORK_POWER": "Mạng: N/Aundefined | Online: undefined | Pin: N/A | Lang: undefined",
+    "PERFORMANCE": "Page Load Time: undefined"
   }
 ]
