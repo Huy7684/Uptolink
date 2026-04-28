@@ -12,5 +12,19 @@
     "MEDIA_SENSORS": "MP4: Có | HEVC: Có | VP9: Có | AV1: Có | PiP: Có | Share: Có | LightSensor: Không",
     "IDENTITY_COMMERCE": "Biometrics: Hỗ trợ | Payments: Hỗ trợ | DRM (Widevine): Hỗ trợ",
     "NETWORK_POWER": "Mạng: 4G (1.9Mbps - Ping: 150ms) | SaveData: Tắt | Pin: 98% (Rút sạc) | Lang: vi"
+  },
+  {
+    "RUN_SESSION": "LẦN THỨ 2 | Thời gian: 2026-04-28 11:52:05 | Múi giờ: Asia/Saigon",
+    "TARGET_LINK": "[196-2] => https://ao88-mobile.com",
+    "HARDWARE_PROFILE": "Model: 2510DRA23E | CPU Arch: ARM 64-bit | Input: Cảm ứng | Touch: 5",
+    "GRAPHICS_ENGINE": "GPU: Mali-G57 MC2 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | MaxTex: 8192 | ColorSpace: sRGB",
+    "SCREEN_METRICS": "Res: 1080x2393 | Avail: 384x851 | View: 442x787 | Scale: 2.8125x | Color: 24-bit | Dọc",
+    "SOFTWARE_ENV": "OS: Android 15 | Browser: Edge | Engine: WebKit/Blink | Theme: Dark | Plugins: 0",
+    "SECURITY_PRIVACY": "Bot/Auto: No | AdBlock: Bật (Có thể chặn Tool) | WebRTC: Yes | DNT: Tắt | Storage Quota: 64GB",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | Clipboard: Có | WakeLock: Có | Geo: Có",
+    "HARDWARE_APIS": "Cam/Mic: Có | NFC: Có | USB: Có | Rung: Có | VR/AR: Có | HID: Không | Serial: Có | MIDI: Có",
+    "MEDIA_SENSORS": "MP4: Có | HEVC: Có | VP9: Có | AV1: Có | PiP: Có | Share: Có | LightSensor: Không",
+    "IDENTITY_COMMERCE": "Biometrics: Hỗ trợ | Payments: Hỗ trợ | DRM (Widevine): Hỗ trợ",
+    "NETWORK_POWER": "Mạng: 4G (4.65Mbps - Ping: 150ms) | SaveData: Tắt | Pin: 98% (Rút sạc) | Lang: vi"
   }
 ]
