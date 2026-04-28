@@ -1586,5 +1586,13 @@
     "SCREEN_GPU": "GPU: NVIDIA GeForce RTX 2060 | Res: 1440x900",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Pin: 100% (Đang sạc)",
     "SYS_DIAGNOSTICS": "TRACE: [SYS:INIT] Bắt đầu quét phần cứng ➔ [SYS:OK] Lấy xong thông số cơ bản ➔ [MAP:INIT] Bắt đầu tải Map ➔ [MAP:SUCCESS] Đọc Map 200 OK ➔ [TOKEN:REQ] Gửi XHR lấy Token rd ➔ [TOKEN:SUCCESS] Đã lấy Token ➔ [JOB_1:REQ] Gửi POST Job ➔ [JOB_1:SUCCESS] Đếm ngược..."
+  },
+  {
+    "SESSION": "====== LẦN CHẠY THỨ 124 [BÁO LỖI CRASH] | 2026-04-28 22:05:18 ======",
+    "TARGET": "[207-2] => https://c168vip10.online",
+    "DEVICE": "Model: PC Windows/Linux | OS: Windows 10/11 | Browser: Brave",
+    "SCREEN_GPU": "GPU: NVIDIA GeForce RTX 2060 | Res: 1440x900",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | Pin: 100% (Đang sạc)",
+    "SYS_DIAGNOSTICS": "TRACE: [SYS:INIT] Bắt đầu quét phần cứng ➔ [SYS:OK] Lấy xong thông số cơ bản ➔ [MAP:INIT] Bắt đầu tải Map ➔ [MAP:SUCCESS] Đọc Map 200 OK ➔ [TOKEN:REQ] Gửi XHR lấy Token rd ➔ [TOKEN:SUCCESS] Đã lấy Token ➔ [JOB_1:REQ] Gửi POST Job ➔ [JOB_1:FAIL] Status trả về: error"
   }
 ]
