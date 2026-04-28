@@ -113,5 +113,78 @@
       "NFC_Scanner": "N/A",
       "USB_Serial_MIDI": "N/A / N/A / N/A"
     }
+  },
+  {
+    "SESSION": {
+      "Run_Number": 5,
+      "Target_ID": "174-2",
+      "Referer_Link": "https://Socialcap.io",
+      "Timestamp": "2026-04-28 12:01:42",
+      "Timezone": "N/A",
+      "Timezone_Offset": "N/A"
+    },
+    "HARDWARE": {
+      "Device_Model": "N/A",
+      "CPU_Architecture": "N/A",
+      "Input_Method": "N/A",
+      "Touch_Points": "N/A",
+      "Multi_Monitor": "N/A"
+    },
+    "GRAPHICS": {
+      "GPU_Renderer": "N/A",
+      "WebGL_Version": "N/A",
+      "WebGPU_Support": "N/A",
+      "Max_Texture_Size": "N/A"
+    },
+    "DISPLAY": {
+      "Resolution": "N/A",
+      "Available_Area": "N/A",
+      "Viewport": "N/A",
+      "Scale_Factor": "N/A",
+      "Color_Depth": "N/A",
+      "Color_Gamut": "N/A",
+      "Orientation": "N/A"
+    },
+    "SOFTWARE": {
+      "OS": "N/A",
+      "Browser": "N/A",
+      "Engine": "N/A",
+      "Languages": "N/A",
+      "Theme": "N/A",
+      "Reduced_Motion": "N/A",
+      "Plugins_Count": "N/A"
+    },
+    "NETWORK_POWER": {
+      "Connection_Type": "N/A",
+      "Network_Speed": "N/A",
+      "Data_Saver": "N/A",
+      "Battery_Level": "N/A",
+      "Battery_Status": "N/A",
+      "Charging_Time": "N/A",
+      "Discharging_Time": "N/A"
+    },
+    "SECURITY_PRIVACY": {
+      "Secure_Context": "N/A",
+      "Bot_Detected": "N/A",
+      "AdBlocker": "N/A",
+      "Do_Not_Track": "N/A",
+      "Storage_Quota": "N/A"
+    },
+    "PERMISSIONS": {
+      "Geolocation": "N/A",
+      "Camera": "N/A",
+      "Microphone": "N/A",
+      "Notifications": "N/A"
+    },
+    "EXTENDED_APIS": {
+      "WebRTC": "N/A",
+      "WASM": "N/A",
+      "WebCodecs": "N/A",
+      "Media_Codecs": "N/A / N/A / N/A",
+      "Biometrics": "N/A",
+      "Digital_Rights_(DRM)": "N/A",
+      "NFC_Scanner": "N/A",
+      "USB_Serial_MIDI": "N/A / N/A / N/A"
+    }
   }
 ]
