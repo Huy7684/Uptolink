@@ -50,5 +50,18 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có",
     "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: 100% (Đang sạc) | Lang: en-US"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 5 ======",
+    "TIME_TARGET": "2026-04-28 14:11:17 | Múi giờ: Asia/Bangkok | Target: [86-2] => https://nittotire.cn.com",
+    "HARDWARE": "Model: PC Windows/Linux | CPU: x86 64-bit | Touch: 256 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "SCREEN": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Pos: 6x5 | Scale: 1x | 32-bit | Ngang",
+    "SOFTWARE": "OS: Windows 10/11 | Browser: Brave | Vendor: Google Inc. | Theme: Dark | PWA Mode: Tắt | Plugins: 7",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Bật | Quota: 2GB",
+    "PERMISSIONS": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: prompt",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Có",
+    "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: 100% (Đang sạc) | Lang: en-US"
   }
 ]
