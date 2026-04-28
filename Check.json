@@ -12,5 +12,12 @@
     "DEVICE": "Xiaomi/Redmi (23129RAA4G) | Android 15 | Browser: Edge",
     "SCREEN_GPU": "Res: 1081x2401 | GPU: Adreno (TM) 610",
     "NETWORK": "Mạng: 4G | Pin: 82% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #3 | 2026-04-29 00:06:05",
+    "TARGET": "[220-2] => https://nohu90-mobile.app | TOKEN: 0be57b8cf44817a0d68c70a65e6b7038",
+    "DEVICE": "Xiaomi/Redmi (23129RAA4G) | Android 15 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1081x2401 | GPU: Adreno (TM) 610",
+    "NETWORK": "Mạng: 4G | Pin: 82% (Rút sạc)"
   }
 ]
