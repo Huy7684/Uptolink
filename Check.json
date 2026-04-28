@@ -1679,5 +1679,12 @@
     "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Không",
     "MEDIA_SENSORS": "Video: MP4/VP9 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: N/A | Lang: vi-VN"
+  },
+  {
+    "SESSION": "====== LẦN CHẠY THỨ 132 | 2026-04-28 22:29:28 ======",
+    "TARGET": "[152-2] => https://duomoyouxi.com | TOKEN: 73c621fda5b5d3bbf7bd32e00ee35803",
+    "DEVICE": "PC Windows/Linux | Windows 10/11 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
+    "NETWORK": "Mạng: WIFI/Unknown | Pin: 100%"
   }
 ]
