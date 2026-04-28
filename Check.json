@@ -38,5 +38,17 @@
     "Software": "Brave | Windows 10/11 | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
     "Features": "AdBlock: Bật (Có thể chặn Tool) | WebRTC: Yes | SW: Yes | MP4 Decode: Có | DNT: Tắt",
     "Network": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
+  },
+  {
+    "Run": 5,
+    "Time": "2026-04-28 11:27:14 | Múi giờ: Asia/Bangkok",
+    "Target": "[196-2] => https://ao88-mobile.com",
+    "Device": "PC (Windows/Linux) | CPU: x86 64-bit | GPU: NVIDIA GeForce RTX 2060 | Touch: 256 | Bot: No",
+    "Screen": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Scale: 1x | Màu: 32-bit | Ngang",
+    "Software": "Brave | Windows 10/11 | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
+    "Features": "AdBlock: Bật (Có thể chặn Tool) | WebRTC: Yes | SW: Yes | DNT: Tắt | Java: No",
+    "Media_Codecs": "MP4: Có | HEVC/H.265: Có | VP9: Có | AV1: Có",
+    "Hardware_APIs": "Gyroscope: Có | USB: Có | Gamepad: Có | VR/AR: Có | Audio: Có",
+    "Network": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
   }
 ]
