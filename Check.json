@@ -28,5 +28,15 @@
     "Software": "OS: Windows 10/11 | Browser: Brave | Platform: Win32 | Engine: WebKit/Blink | Langs: en-US",
     "Features": "Bot: No | DNT: Tắt | Cookie: Yes | Storage: Yes | IDB: Yes | SW: Yes | WebRTC: Yes | Speech: Yes | BT: Yes",
     "Net_n_Perf": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | JS Heap: 24MB"
+  },
+  {
+    "Run": 4,
+    "Time": "2026-04-28 11:24:19 | Múi giờ: Asia/Bangkok",
+    "Target": "[174-2] => https://Socialcap.io",
+    "Device": "PC (Windows/Linux) | CPU: x86 64-bit | GPU: NVIDIA GeForce RTX 2060 | Touch: 256 | Bot: No",
+    "Screen": "Res: 1440x900 | Avail: 1440x900 | View: 1401x811 | Scale: 1x | Màu: 32-bit | Ngang",
+    "Software": "Brave | Windows 10/11 | Engine: WebKit/Blink | Theme: Dark | Plugins: 7",
+    "Features": "AdBlock: Bật (Có thể chặn Tool) | WebRTC: Yes | SW: Yes | MP4 Decode: Có | DNT: Tắt",
+    "Network": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Đang sạc) | Lang: en-US"
   }
 ]
