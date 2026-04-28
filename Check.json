@@ -46,5 +46,13 @@
     "Software": "Brave | Windows 10/11 (1440x900)",
     "Hardware": "PC | x86 64-bit | NVIDIA GeForce RTX 2060",
     "Network": "WIFI / Unknown | Asia/Bangkok"
+  },
+  {
+    "Run": 7,
+    "Time": "2026-04-28 09:03:46",
+    "Target": "236-2",
+    "Software": "Brave | Windows 10/11 (1440x900)",
+    "Hardware": "PC | x86 64-bit | NVIDIA GeForce RTX 2060",
+    "Network": "WIFI / Unknown | Asia/Bangkok"
   }
 ]
