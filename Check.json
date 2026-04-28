@@ -24,5 +24,18 @@
     "NET_TELEMETRY": "Conn: WIFI / Unknown | Online: Online | Battery: 100% (Đang sạc) | Quota: 2GB",
     "API_SENSORS": "WASM: Có | Crypto: Có | NFC: Không | Bio: Có | DRM: Có | Geo: prompt",
     "PERF_METRICS": "Page Load Time: 432ms | Languages: en-US"
+  },
+  {
+    "SYS_SESSION": "====== LẦN CHẠY THỨ 3 ======",
+    "SYS_METADATA": "2026-04-28 12:18:34 | Timezone: Asia/Bangkok | Target: [196-2] => https://ao88-mobile.com",
+    "SYS_SUPER_UID": "UID-5206-F217",
+    "HW_PROFILE": "Brand: PC Windows/Linux | Arch: x86 64-bit | Input: Chuột/Touchpad | Touch: 256",
+    "HW_GRAPHICS": "GPU: NVIDIA GeForce RTX 2060 | WebGL: WebGL 2.0 (OpenGL ES 3.0 Chromium) | WebGPU: Có | ColorSpace: sRGB",
+    "HW_DISPLAY": "Res: 1440x900 | Avail: 1440x900 | Viewport: 1401x811 | Scale: 1x | Ngang",
+    "SW_ENVIRONMENT": "OS: Windows 10/11 | Browser: Brave (WebKit/Blink) | Theme: Dark | Plugins: 7",
+    "SW_SECURITY": "Context: Có | Isolated: Không | AdBlock: Bật (Nguy cơ chặn Tool) | Bot: No | DNT/GPC: DNT Tắt / GPC Bật",
+    "NET_TELEMETRY": "Conn: WIFI / Unknown | Online: Online | Battery: 100% (Đang sạc) | Quota: 2GB",
+    "API_SENSORS": "WASM: Có | Crypto: Có | NFC: Không | Bio: Có | DRM: Có | Geo: prompt",
+    "PERF_METRICS": "Page Load Time: 442ms | Languages: en-US"
   }
 ]
