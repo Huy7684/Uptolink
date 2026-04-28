@@ -5,5 +5,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave",
     "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
     "NETWORK": "Mạng: Online | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #2 | 2026-04-29 00:05:20",
+    "TARGET": "[220-2] => https://nohu90-mobile.app | TOKEN: 3472741d634255c12605cf174d39b8b2",
+    "DEVICE": "Xiaomi/Redmi (23129RAA4G) | Android 15 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1081x2401 | GPU: Adreno (TM) 610",
+    "NETWORK": "Mạng: 4G | Pin: 82% (Rút sạc)"
   }
 ]
