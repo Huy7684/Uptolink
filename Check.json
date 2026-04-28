@@ -62,5 +62,13 @@
     "Software": "Brave | Windows 10/11 (1440x900)",
     "Hardware": "PC | x86 64-bit | NVIDIA GeForce RTX 2060",
     "Network": "WIFI / Unknown | Asia/Bangkok"
+  },
+  {
+    "Run": 9,
+    "Time": "2026-04-28 09:40:12",
+    "Target": "174-2",
+    "Software": "Edge | Android (1080x2393)",
+    "Hardware": "Generic Mobile | ARM 64-bit | Mali-G57 MC2",
+    "Network": "4G | Asia/Saigon"
   }
 ]
