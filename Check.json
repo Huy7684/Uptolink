@@ -1792,5 +1792,18 @@
     "DEVICE": "PC Desktop | Windows | Browser: Brave",
     "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
     "NETWORK": "Mạng: WIFI/Unknown | Pin: 100% (Đang sạc)"
+  },
+  {
+    "RUN_SESSION": "====== LẦN CHẠY THỨ 142 ======",
+    "TIME_TARGET": "2026-04-28 22:42:54 | Múi giờ: Asia/Saigon | Target: [186-2] => https://duomoyouxi.com",
+    "HARDWARE": "Model: Apple iPhone/iPad | CPU: ARM 64-bit | Touch: 5 | MultiMonitor: Không",
+    "GRAPHICS": "GPU: Apple GPU | WebGL: WebGL 2.0 | WebGPU: Có | ColorSpace: P3 (Wide)",
+    "SCREEN": "Res: 1284x2778 | Avail: 1284x2778 | View: 2568x4686 | Pos: 0x0 | Scale: 3x | 24-bit | Dọc",
+    "SOFTWARE": "OS: iOS (iPhone) | Browser: Safari | Vendor: Apple Computer, Inc. | Theme: Dark | PWA Mode: Tắt | Plugins: 5",
+    "SECURITY": "Secure: Có | Isolated: Không | Bot: No | AdBlock: Bật (Nguy cơ chặn chức năng) | DNT: DNT Tắt / GPC Tắt | Quota: 38GB",
+    "PERMISSIONS": "Geo: prompt | Cam: prompt | Mic: prompt | Notif: denied",
+    "ADVANCED_APIS": "WASM: Có | Crypto: Có | WebCodecs: Có | NFC: Không | USB/Serial: Không",
+    "MEDIA_SENSORS": "Video: MP4/VP9 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: N/A | Lang: vi-VN"
   }
 ]
