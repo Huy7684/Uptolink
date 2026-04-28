@@ -1594,5 +1594,12 @@
     "SCREEN_GPU": "GPU: NVIDIA GeForce RTX 2060 | Res: 1440x900",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Pin: 100% (Đang sạc)",
     "SYS_DIAGNOSTICS": "TRACE: [SYS:INIT] Bắt đầu quét phần cứng ➔ [SYS:OK] Lấy xong thông số cơ bản ➔ [MAP:INIT] Bắt đầu tải Map ➔ [MAP:SUCCESS] Đọc Map 200 OK ➔ [TOKEN:REQ] Gửi XHR lấy Token rd ➔ [TOKEN:SUCCESS] Đã lấy Token ➔ [JOB_1:REQ] Gửi POST Job ➔ [JOB_1:FAIL] Status trả về: error"
+  },
+  {
+    "SESSION": "====== LẦN CHẠY THỨ 125 | 2026-04-28 22:06:36 ======",
+    "TARGET": "[201-2] => https://xg0.sa.com | TOKEN: de5049f96fe4185e29e68159e303bee0",
+    "DEVICE": "Model: PC Windows/Linux | OS: Windows 10/11 | Browser: Chrome",
+    "SCREEN_GPU": "GPU: NVIDIA GeForce RTX 2060 | Res: 1440x900",
+    "NETWORK_POWER": "Mạng: WIFI/Unknown | Pin: 100%"
   }
 ]
