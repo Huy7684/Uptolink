@@ -7,5 +7,15 @@
     "Screen": "Res: 1080x2393 | Avail: 384x851 | View: 442x787 | Scale: 2.8125x | Màu: 24-bit | Dọc",
     "Software": "Edge | Android 10 | Theme: Dark | Plugins: 0 | DNT: Tắt | PDF: Không",
     "Network": "Mạng: 4G (1.85Mbps - Ping: 150ms) | Data Saver: Tắt | Pin: 31% (Rút sạc) | Lang: vi"
+  },
+  {
+    "Run": 2,
+    "Time": "2026-04-28 11:17:44 | TZ: Asia/Bangkok (Offset: -420)",
+    "Target": "[196-2] => https://ao88-mobile.com",
+    "Hardware": "Model: PC (Windows/Linux) | Arch: x86 64-bit | Cores: 7 | RAM: 32GB+ | GPU: NVIDIA GeForce RTX 2060 | Touch: 256",
+    "Screen": "Res: 1440x900 | Avail: 1440x900 | Viewport: 1401x811 | Scale: 1x | Color: 32-bit | Pixel: 32-bit | Ngang",
+    "Software": "OS: Windows 10/11 | Browser: Brave | Platform: Win32 | Engine: WebKit/Blink | Langs: en-US",
+    "Features": "Bot: No | DNT: Tắt | Cookie: Yes | Storage: Yes | PDF: Yes | Plugins: 7 | MIME: 2",
+    "Net_n_Perf": "Mạng: WIFI / Unknown | SaveData: Tắt | Pin: 100% (Sạc) | JS Heap: 17MB | History: 6"
   }
 ]
