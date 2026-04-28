@@ -1,1 +1,22 @@
-
+[
+  {
+    "Run_Number": 1,
+    "Timestamp": "2026-04-28 08:37:26",
+    "Target_ID": "217-3",
+    "System_Info": {
+      "Device_Type": "PC",
+      "OS": "Windows 10/11",
+      "Language": "en-US"
+    },
+    "Hardware_Specs": {
+      "CPU_Architecture": "x86 64-bit",
+      "CPU_Threads": 6,
+      "RAM_Capacity": "32GB+",
+      "GPU_Model": "NVIDIA GeForce RTX 2060"
+    },
+    "Browser_Info": {
+      "Name": "Brave",
+      "Resolution": "1440x900"
+    }
+  }
+]
