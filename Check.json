@@ -1571,5 +1571,12 @@
     "MEDIA_SENSORS": "Video: MP4/VP9/AV1 | Audio: MP3/OGG/AAC/FLAC | Bio: Có | DRM: Có",
     "NETWORK_POWER": "Mạng: WIFI / Unknown | Online: Online | Pin: 100% (Đang sạc) | Lang: en-US",
     "PERFORMANCE": "Page Load Time: 297ms"
+  },
+  {
+    "SESSION": "====== LẦN CHẠY THỨ 122 | 2026-04-28 22:00:28 ======",
+    "TARGET": "[201-2] => https://xg0.sa.com",
+    "DEVICE": "Model: PC Windows/Linux | OS: Windows 10/11 | Browser: Brave",
+    "SCREEN_GPU": "GPU: NVIDIA GeForce RTX 2060 | Res: 1440x900",
+    "NETWORK_POWER": "Mạng: WIFI / Unknown | Pin: 100% (Đang sạc)"
   }
 ]
