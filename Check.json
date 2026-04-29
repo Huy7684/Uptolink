@@ -131,5 +131,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #20 | 2026-04-29 16:08:27",
+    "TARGET": "[189-2] => https://s8.ink | TOKEN: 3cce63a2765357ae629f3b5e597ca6fc",
+    "DEVICE": "iPhone | iOS | Browser: Safari",
+    "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
