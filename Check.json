@@ -159,5 +159,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #24 | 2026-04-29 18:05:17",
+    "TARGET": "[217-2] => https://kyzu.sa.com | TOKEN: 75acfa2e1e74e97895ed81d3fb91adc9",
+    "DEVICE": "iPhone | iOS | Browser: Safari",
+    "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
