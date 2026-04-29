@@ -145,5 +145,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #22 | 2026-04-29 17:59:12",
+    "TARGET": "[193-2] => https://bvmwqe.sa.com | TOKEN: 40b55343c641d0e2ffbbf77e9cfd0d2d",
+    "DEVICE": "iPhone | iOS | Browser: Safari",
+    "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
