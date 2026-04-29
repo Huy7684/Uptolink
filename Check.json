@@ -82,5 +82,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver",
     "NETWORK": "Mạng: 4G | Pin: 79% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #13 | 2026-04-29 15:23:22",
+    "TARGET": "[185-2] => https://tvhslh.sa.com | TOKEN: 2d432ca489cd7330a7be956b712cfb9f",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver",
+    "NETWORK": "Mạng: 4G | Pin: 79% (Rút sạc)"
   }
 ]
