@@ -292,5 +292,12 @@
     "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #43 | 2026-04-29 20:10:54",
+    "TARGET": "[141-2] => https://c168vip16.online | TOKEN: 407ba1bc9faf08bf8d7752c45dd8b795",
+    "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
