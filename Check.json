@@ -68,5 +68,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 72% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #11 | 2026-04-30 01:18:21",
+    "TARGET": "[218-2] => https://nux.us.com | TOKEN: 7e1fb2183a3655dfe47cabfda0142cb8",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 72% (Rút sạc)"
   }
 ]
