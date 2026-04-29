@@ -75,5 +75,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 72% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #12 | 2026-04-30 01:19:57",
+    "TARGET": "[211-2] => https://ok9-ok99.com | TOKEN: 5c2c62c8f604a416d65c571c0f9e0e86",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 71% (Rút sạc)"
   }
 ]
