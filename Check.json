@@ -299,5 +299,12 @@
     "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #44 | 2026-04-29 20:14:03",
+    "TARGET": "[220-2] => https://nohu90-mobile.app | TOKEN: fa6ba726a28e63931e3fa0d133e182cf",
+    "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
