@@ -201,5 +201,12 @@
     "DEVICE": "Unknown Device | Unknown OS | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #30 | 2026-04-29 19:43:46",
+    "TARGET": "[246-2] => https://aanthuys.nl | TOKEN: 08a1a73820e26ad90fc921ccba5bfca8",
+    "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
