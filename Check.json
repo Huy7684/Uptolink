@@ -33,5 +33,12 @@
     "DEVICE": "2510DRA23E | Android 15 | Browser: Edge",
     "SCREEN_GPU": "Res: 1080x2393 | GPU: Mali-G57 MC2",
     "NETWORK": "Mạng: 4G | Pin: 100% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #6 | 2026-04-29 07:33:36",
+    "TARGET": "[241-3] => https://cybersport.gb.net | TOKEN: 511447b0697cd99c295f78f93924940a",
+    "DEVICE": "PC Desktop | Windows | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1366x768 | GPU: AMD Radeon(TM) R5 Graphics",
+    "NETWORK": "Mạng: 4G | Pin: 95% (Đang sạc)"
   }
 ]
