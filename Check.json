@@ -243,5 +243,12 @@
     "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #36 | 2026-04-29 19:55:26",
+    "TARGET": "[151-2] => https://98win.rip | TOKEN: 6aba91a059d95923f804ae7dbf5e56fa",
+    "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
