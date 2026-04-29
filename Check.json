@@ -33,5 +33,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #6 | 2026-04-30 00:33:52",
+    "TARGET": "[246-2] => https://aanthuys.nl | TOKEN: d2048465b10f8f3bc6190688a1ec5624",
+    "DEVICE": "iPhone | iOS | Browser: Safari",
+    "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: N/A"
   }
 ]
