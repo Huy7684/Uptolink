@@ -166,5 +166,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #25 | 2026-04-29 18:06:31",
+    "TARGET": "[178-2] => https://ezmmvc.sa.com | TOKEN: e61bac572e429f1d39746b678a0ebd2d",
+    "DEVICE": "iPhone | iOS | Browser: Safari",
+    "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
