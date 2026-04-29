@@ -54,5 +54,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver",
     "NETWORK": "Mạng: 4G | Pin: 82% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #9 | 2026-04-29 15:11:35",
+    "TARGET": "[202-2] => https://79king-vn.com | TOKEN: 61c41aebe159e15c6abcc466936ff8b9",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver",
+    "NETWORK": "Mạng: 4G | Pin: 82% (Rút sạc)"
   }
 ]
