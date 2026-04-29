@@ -173,5 +173,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #26 | 2026-04-29 18:14:54",
+    "TARGET": "[31-2] => https://spg.gb.net | TOKEN: 0a14186c575dfc981bad20c7b797f7f9",
+    "DEVICE": "Xiaomi/Redmi (23129RAA4G) | Android 15 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1081x2401 | GPU: Adreno (TM) 610",
+    "NETWORK": "Mạng: 4G | Pin: 61% (Rút sạc)"
   }
 ]
