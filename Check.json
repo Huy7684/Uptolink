@@ -313,5 +313,12 @@
     "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #46 | 2026-04-29 23:08:33",
+    "TARGET": "[246-2] => https://aanthuys.nl | TOKEN: 46cd0de9e411f1d4cbc0429e3512d5eb",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave",
+    "SCREEN_GPU": "Res: 1440x900 | GPU: NVIDIA GeForce RTX 2060",
+    "NETWORK": "Mạng: Online | Pin: 100% (Đang sạc)"
   }
 ]
