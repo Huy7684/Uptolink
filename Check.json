@@ -180,5 +180,12 @@
     "DEVICE": "Xiaomi/Redmi (23129RAA4G) | Android 15 | Browser: Edge",
     "SCREEN_GPU": "Res: 1081x2401 | GPU: Adreno (TM) 610",
     "NETWORK": "Mạng: 4G | Pin: 61% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #27 | 2026-04-29 19:37:11",
+    "TARGET": "[209-2] => https://11mtru.sa.com | TOKEN: 709f91ccb833bf4f068bdaa38d3e86e1",
+    "DEVICE": "Unknown Device | Unknown OS | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
