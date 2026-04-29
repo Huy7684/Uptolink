@@ -47,5 +47,12 @@
     "DEVICE": "iPhone | iOS | Browser: Safari",
     "SCREEN_GPU": "Res: 828x1792 | GPU: Apple GPU | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #8 | 2026-04-30 01:13:13",
+    "TARGET": "[201-2] => https://xg0.sa.com | TOKEN: 3106c2f57f7d1b9774d41062419edab2",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 73% (Rút sạc)"
   }
 ]
