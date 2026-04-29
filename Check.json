@@ -222,5 +222,12 @@
     "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
     "NETWORK": "Mạng: Online | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #33 | 2026-04-29 19:50:03",
+    "TARGET": "[156-2] => https://nk88.poker | TOKEN: 57efd7f8eb06aed4fdaf57cd614ac0e6",
+    "DEVICE": "Unknown Device | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar",
+    "NETWORK": "Mạng: Online | Pin: N/A"
   }
 ]
