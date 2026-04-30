@@ -82,5 +82,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 71% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #13 | 2026-04-30 15:56:57",
+    "TARGET": "[166-2] => https://lsuy.sa.com | TOKEN: be2a4f95bf70960c6ebd21d8eb34f8b6",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 66% (Rút sạc)"
   }
 ]
