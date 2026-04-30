@@ -208,5 +208,12 @@
     "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 15% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #31 | 2026-04-30 21:52:36",
+    "TARGET": "[228-2] => https://webpage.radio.am | TOKEN: d1aeeea4267d1920d2fee3d9f59fc076",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 16% (Đang sạc)"
   }
 ]
