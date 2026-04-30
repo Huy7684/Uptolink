@@ -138,5 +138,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 55% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #21 | 2026-04-30 17:35:13",
+    "TARGET": "[246-2] => https://aanthuys.nl | TOKEN: e2e24cff2fc4c5990e9aee1fbf41e006",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 54% (Rút sạc)"
   }
 ]
