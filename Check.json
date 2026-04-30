@@ -229,5 +229,15 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 23% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #34 | 2026-04-30 19:08:13",
+    "TARGET": "[156-2] => https://nk88.poker",
+    "TOKEN": "16dea65611bc207ac12e442c95e045c5",
+    "DEVICE": "PC Desktop | Windows",
+    "BROWSER": "Brave | Adblock: Có",
+    "HARDWARE": "Res: 1280x800 | GPU: NVIDIA GeForce RTX 2060",
+    "NETWORK": "Online | Pin: 100%",
+    "LOCALE": "Timezone: Asia/Bangkok | Lang: en-US"
   }
 ]
