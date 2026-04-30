@@ -110,5 +110,12 @@
     "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 30% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #17 | 2026-04-30 19:52:43",
+    "TARGET": "[43-2] => https://fpcm.com.mx | TOKEN: 0498d20fdbd85092ce3d11870a8052c8",
+    "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 30% (Rút sạc)"
   }
 ]
