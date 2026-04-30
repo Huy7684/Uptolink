@@ -145,5 +145,12 @@
     "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 29% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #22 | 2026-04-30 20:20:31",
+    "TARGET": "[246-2] => https://aanthuys.nl | TOKEN: 3985c075a9f56f92c7b076f9b67f04bc",
+    "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 29% (Rút sạc)"
   }
 ]
