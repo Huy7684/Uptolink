@@ -166,5 +166,12 @@
     "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 11% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #25 | 2026-04-30 21:34:13",
+    "TARGET": "[228-2] => https://webpage.radio.am | TOKEN: e6d5b63002e4783211ba95ab7f1e4a44",
+    "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 11% (Đang sạc)"
   }
 ]
