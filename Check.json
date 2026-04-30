@@ -103,5 +103,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 65% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #16 | 2026-04-30 16:02:03",
+    "TARGET": "[236-2] => https://tt88-mobile.app | TOKEN: 250c63200fa0fced069d78b37a6b7760",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 65% (Rút sạc)"
   }
 ]
