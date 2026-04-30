@@ -68,5 +68,12 @@
     "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #11 | 2026-04-30 19:36:08",
+    "TARGET": "[246-2] => https://aanthuys.nl | TOKEN: 4a67a4a508aceeaba77723f45197af69",
+    "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
   }
 ]
