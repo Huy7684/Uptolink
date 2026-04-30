@@ -33,5 +33,12 @@
     "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #6 | 2026-04-30 19:27:55",
+    "TARGET": "[43-2] => https://fpcm.com.mx | TOKEN: 6d5cd8f0f75151a4e4206569dd8f21dd",
+    "DEVICE": "PC Desktop | Windows | Trình duyệt: Brave",
+    "SCREEN_GPU": "Màn hình: 1280x800 | GPU: NVIDIA GeForce RTX 2060 | Adblock: Có",
+    "NETWORK": "VPN/Proxy: Không (Mạng sạch an toàn) | Pin: 100%"
   }
 ]
