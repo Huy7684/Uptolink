@@ -215,5 +215,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 16% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #32 | 2026-04-30 21:54:50",
+    "TARGET": "[228-2] => https://webpage.radio.am | TOKEN: a5809c3715960ff6aa25654f68a4c2cd",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 17% (Đang sạc)"
   }
 ]
