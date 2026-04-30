@@ -159,5 +159,12 @@
     "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 28% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #24 | 2026-04-30 21:30:20",
+    "TARGET": "[211-2] => https://ok9-ok99.com | TOKEN: 8015defd83ba8837743d4b874bb94f9d",
+    "DEVICE": "Samsung (SM-S931B) | Android 15 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 11% (Đang sạc)"
   }
 ]
