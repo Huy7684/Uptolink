@@ -376,5 +376,12 @@
     "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #55 | 2026-05-01 21:08:40",
+    "TARGET": "[16-2] => https://98WINvvy.com | TOKEN: 20772edf656577756080fa15a4eb623e",
+    "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
   }
 ]
