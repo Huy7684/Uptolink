@@ -236,5 +236,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 18% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #35 | 2026-05-01 17:39:36",
+    "TARGET": "[10-2] => https://fpcm.com.mx | TOKEN: d53bcf8c3acf58899c858dfc7611bcba",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 88% (Rút sạc)"
   }
 ]
