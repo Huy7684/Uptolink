@@ -250,5 +250,12 @@
     "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 88% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #37 | 2026-05-01 17:43:52",
+    "TARGET": "[152-2] => https://tradecalc.in.net | TOKEN: a4330989274fd18063fc576e2421be81",
+    "DEVICE": "Vivo (V2366GA) | Android 16 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Vulkan 1.3.128 (Adreno (TM) 750), Qualcomm Technologies Inc. Adreno Vulkan Driver | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 87% (Rút sạc)"
   }
 ]
