@@ -390,5 +390,12 @@
     "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #57 | 2026-05-01 21:29:55",
+    "TARGET": "[71-2] => https://saaspursuit.io | TOKEN: e20179494ed252b10fb60ed9c39f52b2",
+    "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
   }
 ]
