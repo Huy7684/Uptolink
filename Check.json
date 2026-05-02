@@ -488,5 +488,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Chrome",
     "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #71 | 2026-05-02 15:37:39",
+    "TARGET": "[218-2] => https://nux.us.com | TOKEN: eaac31c0552cfefde24e227af6cf2a5f",
+    "DEVICE": "PC Desktop | Windows | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
   }
 ]
