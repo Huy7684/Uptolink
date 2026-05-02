@@ -621,5 +621,12 @@
     "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #90 | 2026-05-02 19:03:06",
+    "TARGET": "[210-3] => https://33win3386.com | TOKEN: 0f87d35d1102653fc62527f16f1d356e",
+    "DEVICE": "PC Desktop | Windows | Browser: Edge",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 41% (Rút sạc)"
   }
 ]
