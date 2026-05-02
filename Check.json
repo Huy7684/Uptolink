@@ -530,5 +530,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Chrome",
     "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #77 | 2026-05-02 17:08:10",
+    "TARGET": "[189-2] => https://s8.ink | TOKEN: b71c25117f50e013da41a910e4c3e479",
+    "DEVICE": "PC Desktop | Windows | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
   }
 ]
