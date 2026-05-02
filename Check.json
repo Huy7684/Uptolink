@@ -635,5 +635,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Edge",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 40% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #92 | 2026-05-02 19:59:40",
+    "TARGET": "[246-2] => https://u8886.vip | TOKEN: 8dea509fcaa7d461b60a3c46e932256e",
+    "DEVICE": "PC Desktop | Windows | Browser: Brave",
+    "SCREEN_GPU": "Res: 1280x800 | GPU: Intel(R) UHD Graphics | Tiện ích (Plugins): 7, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
   }
 ]
