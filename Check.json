@@ -600,5 +600,12 @@
     "DEVICE": "K | Android 10 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 54% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #87 | 2026-05-02 18:37:47",
+    "TARGET": "[246-2] => https://u8886.vip | TOKEN: 6b93c995923bd6c2e76edfdc18405ada",
+    "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
   }
 ]
