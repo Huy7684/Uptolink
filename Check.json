@@ -523,5 +523,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Chrome",
     "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #76 | 2026-05-02 16:57:51",
+    "TARGET": "[221-3] => https://padeo.io | TOKEN: f300701dbf662e10a5ebd564b89d54a6",
+    "DEVICE": "PC Desktop | Windows | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
   }
 ]
