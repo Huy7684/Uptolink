@@ -614,5 +614,12 @@
     "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
+  },
+  {
+    "SESSION": "Run #89 | 2026-05-02 18:43:14",
+    "TARGET": "[21-2] => https://hdhd.sa.com | TOKEN: 1f5a0ade555b1ea20d3b7811a09a6d76",
+    "DEVICE": "Android (Adreno (TM) 650) | Android 16 | Browser: Firefox",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 650, or similar | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: Online | VPN/Proxy: Không phát hiện | Pin: N/A"
   }
 ]
