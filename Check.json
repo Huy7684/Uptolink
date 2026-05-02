@@ -558,5 +558,12 @@
     "DEVICE": "K | Android 10 | Browser: Chrome",
     "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 59% (Rút sạc)"
+  },
+  {
+    "SESSION": "Run #81 | 2026-05-02 18:17:52",
+    "TARGET": "[189-2] => https://s8.ink | TOKEN: 0f6421b387f230359a94eb2f2498da69",
+    "DEVICE": "K | Android 10 | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1440x3200 | GPU: Adreno (TM) 750 | Tiện ích (Plugins): 0, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 58% (Rút sạc)"
   }
 ]
