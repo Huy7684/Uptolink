@@ -481,5 +481,12 @@
     "DEVICE": "PC Desktop | Windows | Browser: Chrome",
     "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
     "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
+  },
+  {
+    "SESSION": "Run #70 | 2026-05-02 15:31:26",
+    "TARGET": "[20-2] => https://EE88-mb.live | TOKEN: d7033f3f1a8c644e53fdd7e9d5ced222",
+    "DEVICE": "PC Desktop | Windows | Browser: Chrome",
+    "SCREEN_GPU": "Res: 1920x1080 | GPU: Microsoft Basic Render Driver | Tiện ích (Plugins): 5, Adblock: Có",
+    "NETWORK": "Mạng: 4G | VPN/Proxy: Có (Lệch Timezone/Lang) | Pin: 100% (Đang sạc)"
   }
 ]
